@@ -1,8 +1,8 @@
 # *Informe-Laboratorio-2*
 
-DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+**DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES**
 
-Tarea de Fundamentos en circuitos eléctricos
+**Tarea de Fundamentos en circuitos eléctricos**
 
 INSTRUCTOR: DARWIN ALULEMA
 
@@ -18,7 +18,7 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-*PRÁCTICA No. 2 Analisis de Mallas*
+**PRÁCTICA No. 2 Analisis de Mallas**
 
 Objetivos:
 
@@ -44,17 +44,21 @@ Desarrollo Analitico del ejercicio
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0002.jpg)
 
-Desarrollo en Multisism
+**Desarrollo en Multisism**
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/Opera%20Instantánea_2021-11-22_164718_www.multisim.com.png)
 
-Desarrollo en Tinkercad
+**Desarrollo en Tinkercad**
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/CIRCUITO.png)
 
-Cuadro de resultados
+**Cuadro de resultados**
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0003.jpg)
+
+**Porcentaje de error**
+
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/unknown.png)
 
 Conclusiones:
 
