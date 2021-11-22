@@ -70,7 +70,11 @@ Recomendaciones:
 
 - Si es posible, emplear el uso de calculadoras en linea para resolver de forma mas exacta los sistemas de ecuaciones
 
+Referencias:
+
+- Método de las corrientes de mallas—EcuRed. (s. f.). Recuperado 22 de noviembre de 2021, de https://www.ecured.cu/M%C3%A9todo_de_las_corrientes_de_mallas
+
 Link del video:
 
-- 
+- https://www.youtube.com/watch?v=h5SgjFY25sk
 
