@@ -54,7 +54,7 @@ Desarrollo Analitico del ejercicio
 
 **Cuadro de resultados**
 
-![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0003.jpg)
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/imagen_2021-11-22_183211.png)
 
 **Porcentaje de error**
 
