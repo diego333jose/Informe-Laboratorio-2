@@ -58,10 +58,19 @@ Cuadro de resultados
 
 Conclusiones:
 
-- 
+- El metodo de mallas es sumamente util al querer determinarla corriente de cualquier elemento dentro de un circuito
+
+- Mediante la formacion de sistemas de ecuaciones se pudo encontrar la intensidad de corriente presente en las 3 malllas del circuito
+
+- En los 3 analisis del circuito hechos durante todo el laboratorio, obtuvimos resultados similares comprobando asi la veracidad de los resultados
 
 Recomendaciones:
 
+- Tener un orden al momento de crear los circuitos con el proposito de no complicarse al momento de tener una falla y querrer corregirla
 
+- Si es posible, emplear el uso de calculadoras en linea para resolver de forma mas exacta los sistemas de ecuaciones
 
+Link del video:
+
+- 
 
