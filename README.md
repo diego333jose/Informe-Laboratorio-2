@@ -38,19 +38,27 @@ Marco teorico:
 
 ![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/Diagrama%20en%20blanco.png)
 
-![](
+Desarrollo Analitico del ejercicio
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0002.jpg)
 
-![](
+Desarrollo en Multisism
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/Opera%20Instantánea_2021-11-22_164718_www.multisim.com.png)
+
+Desarrollo en Tinkercad
+
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/CIRCUITO.png)
+
+Cuadro de resultados
+
+![](https://github.com/diego333jose/Informe-Laboratorio-2/blob/main/Imagenes/LAB%202_page-0003.jpg)
 
 Conclusiones:
 
-
+- 
 
 Recomendaciones:
 
